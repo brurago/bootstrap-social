@@ -1,6 +1,7 @@
 {
   "name": "bootstrap-social",
   "main": "bootstrap-social.css",
+  "version": "4.5.2",
   "licence": "MIT",
   "ignore": [
     "assets",
